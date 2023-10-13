@@ -41,3 +41,7 @@ mask = Image.open('mask/1.png') # 黑白mask，填充白色区域
 pred = lama.infer(img, mask)
 pred.save('1.png')
 ```
+
+# 测试图像
+
+用于测试结果的图像在`example/`文件夹中
