@@ -11,6 +11,10 @@
 
 mmocr和lama依赖库的安装，参考各自对应的```Readme```说明文档。
 
+# 模型下载
+
+[模型下载](https://mail2sysueducn-my.sharepoint.com/:u:/g/personal/dongzy6_mail2_sysu_edu_cn/EWqj4CWvXbBLjenjYwlaXL4BJOhrioRm4OGI2gE4wODUNg?e=du668G)
+
 # 提供的封装接口
 
 ## 文本检测
